@@ -1,6 +1,6 @@
 # magic-cube-block
 ***
-[!image](https://github.com/SunGj921028/magic-cube-block/blob/main/magic_cube.png)
+![image](https://github.com/SunGj921028/magic-cube-block/blob/main/magic_cube.png)
 ### Rule
 ```bash
 0: Exit the program.
